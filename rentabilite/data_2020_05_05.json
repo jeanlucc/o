@@ -1,0 +1,1276 @@
+[
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "BNC [5:219:7]",
+        "metal": "488.355",
+        "cristal": "252.320",
+        "deuterium": "20.678"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Cody la Blanche [5:218:4]",
+        "metal": "485.342",
+        "cristal": "271.282",
+        "deuterium": "88.375"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Maanta [5:12:5]",
+        "metal": "1.531.552",
+        "cristal": "525.940",
+        "deuterium": "42.008"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Colonie [7:308:8]",
+        "metal": "1.076.800",
+        "cristal": "492.891",
+        "deuterium": "225.809"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "GAIA [7:304:6]",
+        "metal": "860.239",
+        "cristal": "575.945",
+        "deuterium": "207.316"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "MINOS [7:303:8]",
+        "metal": "1.219.336",
+        "cristal": "545.779",
+        "deuterium": "277.385"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "CRONOS [7:303:6]",
+        "metal": "1.092.798",
+        "cristal": "473.544",
+        "deuterium": "238.658"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "HERACLES [7:303:9]",
+        "metal": "930.943",
+        "cristal": "465.977",
+        "deuterium": "303.580"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Colonie [2:458:6]",
+        "metal": "1.009.232",
+        "cristal": "504.362",
+        "deuterium": "123.588"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C8 [2:458:5]",
+        "metal": "973.006",
+        "cristal": "524.716",
+        "deuterium": "174.278"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C1 [2:458:10]",
+        "metal": "1.101.175",
+        "cristal": "517.962",
+        "deuterium": "223.863"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:346:8]",
+        "metal": "1.293.253",
+        "cristal": "496.910",
+        "deuterium": "81.337"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Samcro [2:441:8]",
+        "metal": "1.072.596",
+        "cristal": "474.976",
+        "deuterium": "124.428"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C3 [2:456:9]",
+        "metal": "1.097.472",
+        "cristal": "624.952",
+        "deuterium": "291.576"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C6 [2:456:8]",
+        "metal": "1.108.923",
+        "cristal": "561.424",
+        "deuterium": "315.153"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:348:7]",
+        "metal": "1.211.345",
+        "cristal": "524.878",
+        "deuterium": "116.277"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Lukos [2:275:6]",
+        "metal": "1.022.373",
+        "cristal": "504.794",
+        "deuterium": "161.611"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Tough [2:277:7]",
+        "metal": "1.055.780",
+        "cristal": "460.164",
+        "deuterium": "194.056"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "Coruscant [7:132:4]",
+        "metal": "898.153",
+        "cristal": "489.875",
+        "deuterium": "220.824"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RJ11 [5:218:8]",
+        "metal": "1.460.000",
+        "cristal": "637.518",
+        "deuterium": "51.734"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RS232 [5:218:7]",
+        "metal": "1.212.240",
+        "cristal": "607.831",
+        "deuterium": "193.929"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Colonie [5:51:12]",
+        "metal": "1.130.187",
+        "cristal": "534.365",
+        "deuterium": "149.948"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Giudi [5:12:7]",
+        "metal": "1.420.503",
+        "cristal": "553.722",
+        "deuterium": "39.775"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Reach [5:14:12]",
+        "metal": "1.127.166",
+        "cristal": "614.884",
+        "deuterium": "176.950"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "Oz [7:112:11]",
+        "metal": "1.305.209",
+        "cristal": "530.285",
+        "deuterium": "83.506"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Derteria [5:17:7]",
+        "metal": "1.594.285",
+        "cristal": "612.039",
+        "deuterium": "26.176"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "ATHENA [7:303:7]",
+        "metal": "1.637.110",
+        "cristal": "639.913",
+        "deuterium": "278.477"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C5 [2:459:8]",
+        "metal": "1.135.303",
+        "cristal": "567.346",
+        "deuterium": "263.851"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:12]",
+        "metal": "1.142.649",
+        "cristal": "570.692",
+        "deuterium": "177.159"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Nera [2:441:9]",
+        "metal": "1.645.749",
+        "cristal": "599.235",
+        "deuterium": "130.016"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C4 [2:456:6]",
+        "metal": "1.082.950",
+        "cristal": "613.615",
+        "deuterium": "250.935"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C2 [2:456:7]",
+        "metal": "1.223.137",
+        "cristal": "605.556",
+        "deuterium": "242.307"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C7 [2:456:5]",
+        "metal": "1.157.534",
+        "cristal": "574.777",
+        "deuterium": "243.689"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Kenshin [2:278:6]",
+        "metal": "1.181.683",
+        "cristal": "584.540",
+        "deuterium": "228.776"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Tob1Rha [7:286:7]",
+        "metal": "1.112.139",
+        "cristal": "597.714",
+        "deuterium": "209.147"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Whiskiss [7:288:11]",
+        "metal": "1.416.959",
+        "cristal": "614.931",
+        "deuterium": "105.610"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Colonie [5:228:8]",
+        "metal": "1.118.511",
+        "cristal": "638.162",
+        "deuterium": "209.827"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "DVI [5:220:8]",
+        "metal": "1.460.000",
+        "cristal": "794.999",
+        "deuterium": "70.000"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "HDMI [5:219:8]",
+        "metal": "1.460.000",
+        "cristal": "795.000",
+        "deuterium": "65.638"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RJ45 [5:218:6]",
+        "metal": "1.460.000",
+        "cristal": "626.785",
+        "deuterium": "44.973"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "USB [5:218:9]",
+        "metal": "1.460.000",
+        "cristal": "612.254",
+        "deuterium": "51.832"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Tython [5:14:11]",
+        "metal": "1.419.938",
+        "cristal": "621.850",
+        "deuterium": "143.212"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Sangheli [5:14:10]",
+        "metal": "1.231.458",
+        "cristal": "611.892",
+        "deuterium": "47.150"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Crescia [5:15:5]",
+        "metal": "1.562.691",
+        "cristal": "692.798",
+        "deuterium": "72.011"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "LaKich Normal [7:112:9]",
+        "metal": "1.441.648",
+        "cristal": "604.110",
+        "deuterium": "196.242"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C8 [2:458:5]",
+        "metal": "1.664.078",
+        "cristal": "875.976",
+        "deuterium": "290.946"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "POWER-ORION [5:366:5]",
+        "metal": "121.481",
+        "cristal": "17.094",
+        "deuterium": "6.669"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Sambel [2:441:7]",
+        "metal": "1.567.509",
+        "cristal": "787.501",
+        "deuterium": "171.990"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Molka [5:365:5]",
+        "metal": "1.233.354",
+        "cristal": "596.146",
+        "deuterium": "127.500"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "terra nova [5:201:6]",
+        "metal": "946.754",
+        "cristal": "612.873",
+        "deuterium": "261.755"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Plutot Pres de Cyril [5:361:7]",
+        "metal": "823.459",
+        "cristal": "313.726",
+        "deuterium": "129.295"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Au Nord de Cyril [5:360:6]",
+        "metal": "817.356",
+        "cristal": "397.440",
+        "deuterium": "153.156"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Abystopia [5:31:12]",
+        "metal": "1.544.453",
+        "cristal": "774.849",
+        "deuterium": "255.198"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Irelia [2:260:8]",
+        "metal": "1.658.171",
+        "cristal": "720.009",
+        "deuterium": "129.727"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Hachi [5:227:8]",
+        "metal": "773.824",
+        "cristal": "379.448",
+        "deuterium": "38.901"
+    },
+    {
+        "planetName": "[7:206:12]",
+        "targetName": "Death Star [7:235:8]",
+        "metal": "98.385",
+        "cristal": "55.166",
+        "deuterium": "7.009"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "BNC [5:219:7]",
+        "metal": "1.460.000",
+        "cristal": "765.333",
+        "deuterium": "62.720"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Fuschs [2:274:9]",
+        "metal": "1.538.510",
+        "cristal": "680.778",
+        "deuterium": "364.712"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Vulpes [2:275:11]",
+        "metal": "1.621.498",
+        "cristal": "717.639",
+        "deuterium": "349.363"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Hachi [5:227:8]",
+        "metal": "1.539.370",
+        "cristal": "754.778",
+        "deuterium": "77.380"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Korriban [5:14:9]",
+        "metal": "1.537.266",
+        "cristal": "578.777",
+        "deuterium": "115.977"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C1 [2:458:10]",
+        "metal": "1.557.243",
+        "cristal": "716.909",
+        "deuterium": "309.848"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:11]",
+        "metal": "1.658.470",
+        "cristal": "767.747",
+        "deuterium": "148.283"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:10]",
+        "metal": "1.655.696",
+        "cristal": "670.401",
+        "deuterium": "153.403"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Samcro [2:441:8]",
+        "metal": "1.677.551",
+        "cristal": "725.810",
+        "deuterium": "190.139"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C6 [2:456:8]",
+        "metal": "1.667.655",
+        "cristal": "836.359",
+        "deuterium": "469.486"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C3 [2:456:9]",
+        "metal": "1.651.300",
+        "cristal": "933.955",
+        "deuterium": "435.745"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:346:7]",
+        "metal": "1.567.129",
+        "cristal": "668.291",
+        "deuterium": "92.080"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Manon [2:444:10]",
+        "metal": "1.624.608",
+        "cristal": "699.462",
+        "deuterium": "96.635"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Really not a fridge [5:360:7]",
+        "metal": "1.634.750",
+        "cristal": "625.941",
+        "deuterium": "323.309"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Not A Fridge [5:360:12]",
+        "metal": "1.560.355",
+        "cristal": "584.798",
+        "deuterium": "362.847"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RS232 [5:218:7]",
+        "metal": "1.710.955",
+        "cristal": "885.141",
+        "deuterium": "282.404"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "Champ de débris [7:128:7]",
+        "metal": "665.500",
+        "cristal": "0",
+        "deuterium": "0"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Colonie [7:330:7]",
+        "metal": "1.486.033",
+        "cristal": "576.366",
+        "deuterium": "217.601"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "Champ de débris [7:128:7]",
+        "metal": "551.500",
+        "cristal": "174.500",
+        "deuterium": "0"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Moi Renart [2:262:10]",
+        "metal": "1.832.841",
+        "cristal": "820.737",
+        "deuterium": "395.922"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Giudi [5:12:7]",
+        "metal": "2.067.891",
+        "cristal": "800.600",
+        "deuterium": "57.509"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Maanta [5:12:5]",
+        "metal": "2.063.452",
+        "cristal": "701.979",
+        "deuterium": "56.069"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C5 [2:459:8]",
+        "metal": "1.733.104",
+        "cristal": "859.620",
+        "deuterium": "399.776"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:12]",
+        "metal": "1.650.004",
+        "cristal": "828.734",
+        "deuterium": "257.262"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:7]",
+        "metal": "1.639.621",
+        "cristal": "825.635",
+        "deuterium": "185.244"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:8]",
+        "metal": "1.611.842",
+        "cristal": "736.737",
+        "deuterium": "130.921"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:346:8]",
+        "metal": "1.780.816",
+        "cristal": "682.043",
+        "deuterium": "111.641"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C2 [2:456:7]",
+        "metal": "1.854.270",
+        "cristal": "921.501",
+        "deuterium": "368.729"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C7 [2:456:5]",
+        "metal": "1.756.763",
+        "cristal": "874.482",
+        "deuterium": "370.755"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C4 [2:456:6]",
+        "metal": "1.667.961",
+        "cristal": "940.091",
+        "deuterium": "384.447"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Renard [2:274:7]",
+        "metal": "1.631.817",
+        "cristal": "716.304",
+        "deuterium": "321.379"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:348:7]",
+        "metal": "1.623.214",
+        "cristal": "693.216",
+        "deuterium": "153.570"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Zorro [2:276:11]",
+        "metal": "1.614.787",
+        "cristal": "722.782",
+        "deuterium": "360.431"
+    },
+    {
+        "planetName": "[7:206:12]",
+        "targetName": "Darthique [7:207:8]",
+        "metal": "481.398",
+        "cristal": "184.527",
+        "deuterium": "46.050"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "Champ de débris [7:128:7]",
+        "metal": "363.000",
+        "cristal": "363.000",
+        "deuterium": "0"
+    },
+    {
+        "planetName": "[7:128:7]",
+        "targetName": "Champ de débris [7:128:7]",
+        "metal": "82.500",
+        "cristal": "82.500",
+        "deuterium": "0"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Taarainferno [5:158:9]",
+        "metal": "838.225",
+        "cristal": "326.026",
+        "deuterium": "127.748"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "USB [5:218:9]",
+        "metal": "826.119",
+        "cristal": "455.795",
+        "deuterium": "38.586"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RJ11 [5:218:8]",
+        "metal": "819.049",
+        "cristal": "455.026",
+        "deuterium": "36.925"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RJ45 [5:218:6]",
+        "metal": "820.379",
+        "cristal": "484.367",
+        "deuterium": "34.754"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Colonie [5:51:12]",
+        "metal": "971.351",
+        "cristal": "532.285",
+        "deuterium": "149.364"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Planete X [5:11:6]",
+        "metal": "897.404",
+        "cristal": "484.041",
+        "deuterium": "148.055"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Reach [5:14:12]",
+        "metal": "968.225",
+        "cristal": "612.897",
+        "deuterium": "176.378"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C1 [2:458:10]",
+        "metal": "809.736",
+        "cristal": "515.825",
+        "deuterium": "222.939"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Colonie [5:17:4]",
+        "metal": "938.146",
+        "cristal": "434.030",
+        "deuterium": "62.324"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C8 [2:458:5]",
+        "metal": "773.983",
+        "cristal": "567.146",
+        "deuterium": "188.371"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Nera [2:441:9]",
+        "metal": "854.804",
+        "cristal": "398.281",
+        "deuterium": "86.415"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Alepou [2:275:10]",
+        "metal": "828.727",
+        "cristal": "450.050",
+        "deuterium": "203.223"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Free Fight [2:277:9]",
+        "metal": "860.698",
+        "cristal": "396.743",
+        "deuterium": "158.059"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:8]",
+        "metal": "884.712",
+        "cristal": "539.429",
+        "deuterium": "95.859"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:11]",
+        "metal": "866.717",
+        "cristal": "539.571",
+        "deuterium": "104.212"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:10]",
+        "metal": "869.541",
+        "cristal": "467.488",
+        "deuterium": "106.971"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Tob1Rha [7:286:7]",
+        "metal": "824.751",
+        "cristal": "536.146",
+        "deuterium": "187.603"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Terrier [2:280:9]",
+        "metal": "787.010",
+        "cristal": "432.892",
+        "deuterium": "214.598"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Massalia [5:161:11]",
+        "metal": "990.441",
+        "cristal": "651.868",
+        "deuterium": "257.691"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Cody la Blanche [5:218:4]",
+        "metal": "1.125.574",
+        "cristal": "641.459",
+        "deuterium": "208.967"
+    },
+    {
+        "planetName": "[7:206:12]",
+        "targetName": "Star Killer [7:235:7]",
+        "metal": "1.124.611",
+        "cristal": "647.509",
+        "deuterium": "118.380"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Giudi [5:12:7]",
+        "metal": "1.382.219",
+        "cristal": "553.987",
+        "deuterium": "39.794"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Maanta [5:12:5]",
+        "metal": "1.384.998",
+        "cristal": "485.707",
+        "deuterium": "38.795"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Colonie [5:210:6]",
+        "metal": "1.209.363",
+        "cristal": "607.637",
+        "deuterium": "234.999"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Sangheli [5:14:10]",
+        "metal": "1.153.712",
+        "cristal": "578.232",
+        "deuterium": "44.556"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "ATHENA [7:303:7]",
+        "metal": "1.259.998",
+        "cristal": "492.274",
+        "deuterium": "214.227"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "CRONOS [7:303:6]",
+        "metal": "1.126.847",
+        "cristal": "501.438",
+        "deuterium": "252.715"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "HERACLES [7:303:9]",
+        "metal": "971.463",
+        "cristal": "493.213",
+        "deuterium": "321.324"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Fox [2:274:5]",
+        "metal": "1.205.470",
+        "cristal": "533.374",
+        "deuterium": "180.156"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:346:7]",
+        "metal": "1.071.786",
+        "cristal": "469.082",
+        "deuterium": "64.632"
+    },
+    {
+        "planetName": "[2:280:10]",
+        "targetName": "Tough [2:277:7]",
+        "metal": "1.007.450",
+        "cristal": "440.701",
+        "deuterium": "185.848"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:348:7]",
+        "metal": "1.066.356",
+        "cristal": "449.144",
+        "deuterium": "99.500"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Makoume [5:26:7]",
+        "metal": "1.293.052",
+        "cristal": "563.948",
+        "deuterium": "5.000"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Heidos [5:26:9]",
+        "metal": "1.235.056",
+        "cristal": "550.606",
+        "deuterium": "28.838"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Really not a fridge [5:360:7]",
+        "metal": "1.104.118",
+        "cristal": "430.844",
+        "deuterium": "222.538"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Whiskiss [7:288:11]",
+        "metal": "995.747",
+        "cristal": "439.305",
+        "deuterium": "75.448"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Felucia [5:229:7]",
+        "metal": "706.668",
+        "cristal": "264.748",
+        "deuterium": "89.876"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Taarainferno [5:158:9]",
+        "metal": "1.707.969",
+        "cristal": "566.470",
+        "deuterium": "221.964"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Colonie [5:211:7]",
+        "metal": "1.334.285",
+        "cristal": "658.608",
+        "deuterium": "235.000"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Ragnarock [5:210:9]",
+        "metal": "1.285.393",
+        "cristal": "632.971",
+        "deuterium": "303.402"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Korriban [5:14:9]",
+        "metal": "1.488.868",
+        "cristal": "557.500",
+        "deuterium": "111.713"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Tython [5:14:11]",
+        "metal": "1.298.246",
+        "cristal": "557.109",
+        "deuterium": "128.302"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Crescia [5:15:5]",
+        "metal": "1.391.043",
+        "cristal": "602.999",
+        "deuterium": "62.678"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Derteria [5:17:7]",
+        "metal": "1.474.096",
+        "cristal": "557.519",
+        "deuterium": "23.844"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Samcro [2:441:8]",
+        "metal": "1.567.024",
+        "cristal": "664.611",
+        "deuterium": "174.107"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Colonie [2:459:6]",
+        "metal": "1.772.826",
+        "cristal": "590.687",
+        "deuterium": "316.789"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Nera [2:441:9]",
+        "metal": "1.767.163",
+        "cristal": "656.515",
+        "deuterium": "142.443"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "MINOS [7:303:8]",
+        "metal": "1.250.294",
+        "cristal": "535.541",
+        "deuterium": "272.183"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C6 [2:456:8]",
+        "metal": "1.383.317",
+        "cristal": "664.853",
+        "deuterium": "373.212"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Colonie [2:443:7]",
+        "metal": "1.183.748",
+        "cristal": "454.747",
+        "deuterium": "128.181"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Full-Stack [5:364:10]",
+        "metal": "785.879",
+        "cristal": "315.502",
+        "deuterium": "104.942"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "En dessous de Cyril [5:360:9]",
+        "metal": "708.043",
+        "cristal": "233.995",
+        "deuterium": "148.794"
+    },
+    {
+        "planetName": "[7:206:12]",
+        "targetName": "Darthique [7:207:8]",
+        "metal": "1.619.342",
+        "cristal": "617.983",
+        "deuterium": "154.222"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Hachi [5:227:8]",
+        "metal": "1.379.104",
+        "cristal": "687.876",
+        "deuterium": "70.520"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "DVI [5:220:8]",
+        "metal": "1.330.640",
+        "cristal": "653.879",
+        "deuterium": "57.981"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "HDMI [5:219:8]",
+        "metal": "1.413.301",
+        "cristal": "697.065",
+        "deuterium": "55.634"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "BNC [5:219:7]",
+        "metal": "1.396.918",
+        "cristal": "693.267",
+        "deuterium": "56.815"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Colonie [5:210:10]",
+        "metal": "1.320.854",
+        "cristal": "657.646",
+        "deuterium": "235.000"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Vend deut [5:182:8]",
+        "metal": "1.307.178",
+        "cristal": "652.322",
+        "deuterium": "234.999"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C5 [2:459:8]",
+        "metal": "1.337.722",
+        "cristal": "662.619",
+        "deuterium": "308.159"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Sambel [2:441:7]",
+        "metal": "1.325.528",
+        "cristal": "658.628",
+        "deuterium": "143.844"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C2 [2:456:7]",
+        "metal": "1.484.912",
+        "cristal": "730.704",
+        "deuterium": "292.384"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C3 [2:456:9]",
+        "metal": "1.258.416",
+        "cristal": "709.541",
+        "deuterium": "331.043"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C7 [2:456:5]",
+        "metal": "1.407.756",
+        "cristal": "692.601",
+        "deuterium": "293.643"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Giant-Goat [5:364:6]",
+        "metal": "1.109.499",
+        "cristal": "624.280",
+        "deuterium": "213.721"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "Manon [2:444:10]",
+        "metal": "1.571.881",
+        "cristal": "680.591",
+        "deuterium": "94.028"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "CEL66 [5:26:8]",
+        "metal": "1.410.014",
+        "cristal": "706.137",
+        "deuterium": "87.849"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "BIDUL [5:26:10]",
+        "metal": "1.249.359",
+        "cristal": "624.949",
+        "deuterium": "54.192"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Really not a fridge [5:360:7]",
+        "metal": "1.994.688",
+        "cristal": "764.457",
+        "deuterium": "394.854"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Au Nord de Cyril [5:360:6]",
+        "metal": "1.448.579",
+        "cristal": "723.583",
+        "deuterium": "278.838"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Not A Fridge [5:360:12]",
+        "metal": "1.883.798",
+        "cristal": "701.775",
+        "deuterium": "435.427"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Abystopia [5:31:12]",
+        "metal": "1.423.089",
+        "cristal": "708.926",
+        "deuterium": "233.485"
+    },
+    {
+        "planetName": "[7:289:7]",
+        "targetName": "Colonie [7:330:7]",
+        "metal": "1.461.876",
+        "cristal": "566.317",
+        "deuterium": "213.807"
+    },
+    {
+        "planetName": "[7:206:12]",
+        "targetName": "Death Star [7:235:8]",
+        "metal": "1.262.051",
+        "cristal": "709.327",
+        "deuterium": "90.122"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RS232 [5:218:7]",
+        "metal": "1.626.062",
+        "cristal": "812.659",
+        "deuterium": "259.279"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RJ45 [5:218:6]",
+        "metal": "1.460.000",
+        "cristal": "725.480",
+        "deuterium": "52.055"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "USB [5:218:9]",
+        "metal": "1.460.000",
+        "cristal": "667.923",
+        "deuterium": "56.544"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "RJ11 [5:218:8]",
+        "metal": "1.460.000",
+        "cristal": "666.462",
+        "deuterium": "54.083"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Planete X [5:11:6]",
+        "metal": "1.551.238",
+        "cristal": "689.012",
+        "deuterium": "210.750"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Giudi [5:12:7]",
+        "metal": "2.212.877",
+        "cristal": "878.051",
+        "deuterium": "63.072"
+    },
+    {
+        "planetName": "[5:31:10]",
+        "targetName": "Maanta [5:12:5]",
+        "metal": "2.218.203",
+        "cristal": "769.811",
+        "deuterium": "61.486"
+    },
+    {
+        "planetName": "[5:195:10]",
+        "targetName": "Kent la Verte [5:184:8]",
+        "metal": "1.375.820",
+        "cristal": "785.130",
+        "deuterium": "223.550"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C8 [2:458:5]",
+        "metal": "1.344.255",
+        "cristal": "759.489",
+        "deuterium": "252.256"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C1 [2:458:10]",
+        "metal": "1.388.519",
+        "cristal": "688.787",
+        "deuterium": "297.694"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:12]",
+        "metal": "1.515.730",
+        "cristal": "749.961",
+        "deuterium": "232.809"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:345:7]",
+        "metal": "1.498.156",
+        "cristal": "739.439",
+        "deuterium": "165.905"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:346:8]",
+        "metal": "2.012.713",
+        "cristal": "760.330",
+        "deuterium": "124.456"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Colonie [5:346:7]",
+        "metal": "1.766.698",
+        "cristal": "760.076",
+        "deuterium": "104.726"
+    },
+    {
+        "planetName": "[2:449:10]",
+        "targetName": "C4 [2:456:6]",
+        "metal": "1.222.812",
+        "cristal": "689.656",
+        "deuterium": "282.032"
+    },
+    {
+        "planetName": "[5:356:10]",
+        "targetName": "Plutot Pres de Cyril [5:361:7]",
+        "metal": "2.013.485",
+        "cristal": "774.020",
+        "deuterium": "318.995"
+    }
+]
